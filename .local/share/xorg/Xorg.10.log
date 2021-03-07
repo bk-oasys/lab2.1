@@ -273,3 +273,13 @@ Release Date: 2017-03-02
 [   174.556] rdpRRGetPanning: 0x55d02611d1d0
 [   174.596] rdpRRGetPanning: 0x55d02611d1d0
 [   174.692] rdpRRGetPanning: 0x55d02611d1d0
+[  2121.253] rdpSaveScreen:
+[  2141.364] rdpDeferredUpdateCallback: reschedule rect_id 1192 rect_id_ack 1191
+[  2149.341] rdpDeferredUpdateCallback: reschedule rect_id 1324 rect_id_ack 1323
+[  2149.490] rdpDeferredUpdateCallback: reschedule rect_id 1326 rect_id_ack 1325
+[  2149.618] rdpDeferredUpdateCallback: reschedule rect_id 1328 rect_id_ack 1327
+[  2149.712] rdpDeferredUpdateCallback: reschedule rect_id 1329 rect_id_ack 1328
+[  2149.800] rdpDeferredUpdateCallback: reschedule rect_id 1330 rect_id_ack 1329
+[  2149.936] rdpDeferredUpdateCallback: reschedule rect_id 1332 rect_id_ack 1331
+[  2150.061] rdpDeferredUpdateCallback: reschedule rect_id 1334 rect_id_ack 1333
+[  2167.471] rdpSaveScreen:
